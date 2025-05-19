@@ -82,11 +82,6 @@ If you encounter TypeScript errors about missing declaration files:
 
 1. Make sure you're using the latest version of the library
 2. Check that the package is correctly installed
-3. Add a declaration file to your project:
-   ```typescript
-   // Create a file named rondwell-shared-lib.d.ts
-   declare module '@rondwell/shared-lib/dist';
-   ```
 
 ## Contributing
 
