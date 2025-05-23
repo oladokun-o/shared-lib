@@ -15,6 +15,23 @@
     "typescript": "^5.4.3"
   },
   "dependencies": {
-    "express": "^5.1.0"
-  }
+    "express": "^5.1.0",
+    "winston": "^3.17.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oladokun-o/shared-lib.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "license": "MIT",
+  "description": "A shared library for Rondwell Project",
+  "author": "Oladokun Oladipupo",
+  "keywords": [
+    "typescript",
+    "library",
+    "shared",
+    "rondwell"
+  ]
 }
