@@ -1,10 +1,10 @@
 # @rondwell/shared-lib
 
-A shared library for the Rondwell Project backend applications.
+A shared library for the Rondwell Project applications.
 
 ## Overview
 
-This shared library contains common utilities, interfaces, and functionality used across the Rondwell backend ecosystem. It provides standardized implementations to ensure consistency and reduce code duplication.
+This shared library contains common utilities, interfaces, and functionality used across the Rondwell ecosystem. It provides standardized implementations to ensure consistency and reduce code duplication.
 
 ## Installation
 
